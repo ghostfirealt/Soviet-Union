@@ -12,8 +12,9 @@
     "cities": ["Moscow","Leningrad","Stalingrad","Kuibishev","Kiev","Omsk","Baku","Harkow","Minsk","Gorkiy","Novosibirsk",
     "Sverdlovsk","Tbilisi","Dnepropetrovsk","Tashkent","Murmansk","Vladiwostok","Vladimir", "Nizhny Novgorod", "Velikiy Novgorod", "Ryazan", "Novgorod", "Simpheropol", "Sevastopol"],
 
-    "uniques": ["[-1 Faith] per [4] population [in all cities]", "Starts with [Mining]", "[+1 Production] per [3] population [in all cities]"]
-},
+    "uniqueName": "War of The People",
+"uniques": ["[-75]% maintenance costs <for [All] units> <when at war>", "[+15]% Production when constructing [Land] units [in all cities] <when at war>","[+15]% [Science]  [in all cities] <when at war>","[+20]% [Culture] [in all cities] <when at war>","[+20]% Growth [in all cities] <when at war>","[Military] unit gain the [DSEliteUnit] promotion,"[+20]% Strength <for [Military] unit>],
+}	
 {
     "name":"Israel",
     "leaderName": "Isaac Hersog",
